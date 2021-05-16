@@ -611,7 +611,7 @@ footer .footer span, footer .footer small {
   }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 520px) {
   html {
     font-size: 10px;
   }
@@ -734,7 +734,7 @@ main .mission_vision_values .right article .data p {
   color: red;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 520px) {
   html {
     font-size: 10px;
   }
@@ -802,7 +802,7 @@ main .address_content form .btn {
   }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 520px) {
   html {
     font-size: 10px;
   }
@@ -975,7 +975,7 @@ main .pricing .article .bg_btn a {
   margin-top: 2rem;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 520px) {
   html {
     font-size: 10px;
   }
